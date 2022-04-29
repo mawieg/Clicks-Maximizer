@@ -1,9 +1,9 @@
 # Repository structure
 
 ```
-├── README.md                <- The top-level README for developers using this project.
+├── README.md                <- The top-level README for developers using this project
 │
-├── LICENSE                  <- Document containing the GNU General Public License.
+├── LICENSE                  <- Document containing the GNU General Public License
 |
 ├── Maximizing Clicks.pdf    <- Document outlining the idea and implementation of a clicks-
 │                               maximizing ad-bidding procedure for a UK-based programmatic 
@@ -11,9 +11,9 @@
 |
 ├── clicks_maximizer.ipynb   <- Jupyter notebook containing the implementation of the 
 |                               outlined algorithm together with some statistics and figures 
-|                               summarizing the resulting optimal bids. 
+|                               summarizing the resulting optimal bids
 │
-├── requirements.txt         <- The requirements file for reproducing the analysis environment.
+├── requirements.txt         <- The requirements file for reproducing the analysis environment
 ```
 
 ### Installing development requirements
