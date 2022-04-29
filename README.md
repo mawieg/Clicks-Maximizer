@@ -7,7 +7,7 @@
 |
 ├── Maximizing Clicks.pdf    <- Document outlining the idea and implementation of a clicks-
 │                               maximizing ad-bidding procedure for a UK-based programmatic 
-│                               advertising company
+│                               advertising firm
 |
 ├── clicks_maximizer.ipynb   <- Jupyter notebook containing the implementation of the 
 |                               outlined algorithm together with some statistics and figures 
@@ -25,6 +25,8 @@
 This repository shows work done by me for a programmatic advertising firm during Pivigo's Science to Data Science bootcamp (S2DS; https://www.s2ds.org/) in March and April 2022. S2DS aims to offer young academics experience as data scientists in a business context.
 
 The names of the advertising firm (who is also the copyright holder), the advertiser, and the product, as well as the place where the campaign was run are kept anonymous.
+
+Martin Wiegand, 29.04.2922
 
 ### Copyright
 
