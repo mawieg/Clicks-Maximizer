@@ -21,8 +21,10 @@
 
     pip install -r requirements.txt
 
-### Remark
-The names of the advertising company (who is also the copyright holder), the advertiser, and the product, as well as the place where the campaign was run are kept anonymous.
+### Remarks
+This repository shows work done by me for Pivigo's Science to Data Science bootcamp (https://www.s2ds.org/), which aims to offer young academics experience as data scientists in a business context.
+
+The names of the advertising firm (who is also the copyright holder), the advertiser, and the product, as well as the place where the campaign was run are kept anonymous.
 
 ### Copyright
 
