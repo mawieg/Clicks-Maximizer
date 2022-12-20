@@ -26,7 +26,7 @@ This repository shows work done by me for a programmatic advertising firm during
 
 The names of the advertising firm (who is also the copyright holder), the advertiser, and the product, as well as the place where the campaign was run are kept anonymous.
 
-Martin Wiegand, 29.04.2922
+Martin Wiegand, 29.04.2022
 
 ### Copyright
 
